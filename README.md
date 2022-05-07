@@ -4,7 +4,7 @@ A small utility that helps you export your data from Actual's sqlite database.
 
 ## Usage
 
- - Go to the [release](releases) section and find the correct download for your Operating System
+ - Go to the [release](https://github.com/cuken/ActualExporter/releases) section and find the correct download for your Operating System
  - You will need an export from your Actual Budget, this should provide you with a db.sqlite and a metadata.json file
  - Extract the zipped ActualExporter
  - Right now the tool only support YNAB Cloud as an export type, future export options may be supported
